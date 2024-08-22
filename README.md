@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhjshmr
-- 👀 I’m interested in Footbal
+- 👀 I’m interested in Football
 - 🌱 I’m currently learning BSC Cyber Security
 - 📫 How to reach me +971 55 5309355
 
