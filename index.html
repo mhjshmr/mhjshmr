@@ -947,7 +947,7 @@
   });
 
   /* ---------- Hero typing animation ---------- */
-  var phrases = ["DATA SUPPORT ADMINISTRATOR","JUNIOR PENTESTER | SECURITY ANALYST","OffSec | VAPT | DefSec","BSc CYBERSECURITY | FIRST CLASS HONOURS"];
+  var phrases = ["IT SUPPORT ADMINISTRATOR","JUNIOR PENTESTER | SECURITY ANALYST","OffSec | VAPT | DefSec","BSc CYBERSECURITY | FIRST CLASS HONOURS"];
   var typeEl = document.getElementById('heroTypeText');
   var pIndex = 0, cIndex = 0, deleting = false;
   function typeLoop(){
@@ -968,10 +968,10 @@
   /* ---------- Terminal "About Me" typing ---------- */
   var termLines = [
     {p:true, cmd:"whoami", out:"Minhaj Shameer Ahamed"},
-    {p:true, cmd:"active_role", out:"DATA Support Administrator"},
+    {p:true, cmd:"active_role", out:"Jr. IT Administrator"},
     {p:true, cmd:"location", out:"United Arab Emirates"},
     {p:true, cmd:"education", out:"BSc Cyber Security Engineering (First Class Honours)"},
-    {p:true, cmd:"target_role", out:"DATA Support Admin \u2192 Cloud Security Engineer"},
+    {p:true, cmd:"target_role", out:"IT Administrator \u2192 Cloud Security Engineer"},
     {p:true, cmd:"career_path", out:"OffSec | VAPT | Blue Team | IT Support"},
     {p:true, cmd:"motto", out:"\"Hack to learn. Defend to protect. Build to secure.\""}
   ];
@@ -1041,22 +1041,55 @@
   window.addEventListener('scroll', checkAboutVisible, {passive:true});
   checkAboutVisible();
 
-  /* ---------- Experience data & render ---------- */
-  var experiences = [
-    {
-      role:"DATA Support Administrator Intern",
-      org:"Abu Dhabi University",
-      meta:"Apr 2026 – Present · United Arab Emirates",
-      tags:["Windows","Active Directory","Microsoft 365","Endpoint Security"],
-      points:[
-        "Provide Tier 1 & Tier 2 technical support for hardware, software, networking, and smart classroom technologies across academic departments.",
-        "Configure, deploy, patch, and harden Windows desktops, laptops, and endpoint devices per university IT security standards.",
-        "Create and maintain standardized Windows system images for efficient endpoint provisioning.",
-        "Troubleshoot hardware, software, printer, peripheral, and OS issues through systematic diagnostics.",
-        "Support OS deployment, endpoint provisioning, device lifecycle management, and secure decommissioning.",
-        "Maintain reliable IT services across campuses, ensuring minimal downtime for staff, faculty, and students."
-      ]
-    },
+ /* ---------- Experience data & render ---------- */
+var experiences = [
+  {
+    role:"Administrator Assistant (IT Support)",
+    org:"Abu Dhabi University",
+    meta:"Jul 2026 – Present · Part-time · United Arab Emirates",
+    tags:[
+      "Windows",
+      "Linux",
+      "Active Directory",
+      "Microsoft 365",
+      "Microsoft Entra ID",
+      "Networking",
+      "Endpoint Management",
+      "System Imaging",
+      "Endpoint Security",
+      "AV Support"
+    ],
+    points:[
+      "Deliver Tier 1 and Tier 2 IT support, resolving endpoint, network, identity, and Microsoft 365 incidents.",
+      "Manage endpoint deployment, OS patching, secure configuration, domain integration, and workstation provisioning across university environments.",
+      "Support Microsoft 365 services, including Outlook, Teams, OneDrive, Entra ID, account provisioning, and password reset workflows.",
+      "Troubleshoot hardware, software, peripheral, connectivity, and operating system issues through systematic diagnostics and resolution.",
+      "Support auditorium control room operations, maintaining AV equipment, cameras, microphones, presentations, and event connectivity."
+    ]
+  },
+  {
+    role:"IT Support Intern | DATA Department",
+    org:"Abu Dhabi University",
+    meta:"Apr 2026 – Jul 2026 · Internship · United Arab Emirates",
+    tags:[
+      "Windows",
+      "Linux",
+      "Active Directory",
+      "Microsoft 365",
+      "Networking",
+      "Endpoint Management",
+      "System Imaging",
+      "Endpoint Security",
+      "AV Support"
+    ],
+    points:[
+      "Assisted with Tier 1 IT support, troubleshooting endpoint, network, identity, Wi-Fi, and Microsoft 365 issues.",
+      "Supported operating system installation, application configuration, domain integration, and workstation deployment for laboratory and staff environments.",
+      "Assisted with standardized system imaging, software deployment, hardware configuration, and workstation maintenance across multiple device models.",
+      "Provided Outlook, Teams, and OneDrive support, helping users resolve account access issues and complete device onboarding.",
+      "Handled helpdesk tickets, hardware diagnostics, peripheral configuration, classroom AV troubleshooting, assessment support, and technical escalations."
+    ]
+  },
     {
       role:"Freelance Penetration Tester (VAPT)",
       org:"Self-Employed",
