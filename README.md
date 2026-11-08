@@ -102,16 +102,25 @@ root@mhjshmr:~$ motto
 ## Work Experience
 
 <details>
-<summary><strong>Abu Dhabi University</strong> — IT Support Administrator Intern | Apr 2026 – Present | United Arab Emirates</summary>
+<summary><strong>Abu Dhabi University</strong> | Apr 2026 – Present | United Arab Emirates</summary>
 
-> ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-white?style=flat-square&logo=cisco&logoColor=0078D4&labelColor=white&color=0078D4) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-8B0000?style=flat-square&logoColor=white)
+> ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![System Imaging](https://img.shields.io/badge/System_Imaging-6A5ACD?style=flat-square&logo=clone&logoColor=white) ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-8B0000?style=flat-square&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-white?style=flat-square&logo=cisco&logoColor=0078D4&labelColor=white&color=0078D4) ![AV Support](https://img.shields.io/badge/AV_Support-555555?style=flat-square&logo=youtube&logoColor=white)
 
-- Provide Tier 1 & Tier 2 technical support for hardware, software, networking, and smart classroom technologies across academic departments.
-- Configure, deploy, patch, and harden Windows desktops, laptops, and endpoint devices in accordance with university IT security standards.
-- Create and maintain standardized Windows system images for efficient endpoint provisioning and deployment.
-- Troubleshoot and resolve hardware, software, printer, peripheral, and operating system issues through systematic diagnostics.
-- Support IT infrastructure operations including OS deployment, endpoint provisioning, device lifecycle management, and secure device decommissioning.
-- Assist in maintaining reliable IT services across Abu Dhabi University campuses, ensuring minimal downtime for staff, faculty, and students.
+<b>Administrator Assistant (IT Support) — Part-time | Jul 2026 – Present</b>
+
+- Deliver Tier 1 and Tier 2 IT support, resolving endpoint, network, identity, and Microsoft 365 incidents.
+- Manage endpoint deployment, OS patching, secure configuration, domain integration, and workstation provisioning across university environments.
+- Support Microsoft 365 services, including Outlook, Teams, OneDrive, Entra ID, account provisioning, and password resets.
+- Troubleshoot hardware, software, peripherals, connectivity, and operating system issues through systematic diagnostics and resolution.
+- Support auditorium control room operations, maintaining AV equipment, cameras, microphones, presentations, and event connectivity.
+
+<b>IT Support Intern | DATA Department — Internship | Apr 2026 – Jul 2026</b>
+
+- Assisted with Tier 1 IT support, troubleshooting endpoint, network, identity, Wi-Fi, and Microsoft 365 issues.
+- Supported operating system installations, application configuration, domain integration, and workstation deployment across laboratory and staff environments.
+- Assisted with standardized system imaging, software deployment, hardware configuration, and workstation maintenance across multiple device models.
+- Provided Microsoft 365 support for Outlook, Teams, and OneDrive, assisting with account access and device onboarding.
+- Handled helpdesk tickets, hardware diagnostics, peripheral configuration, classroom AV troubleshooting, and technical issue escalation.
 </details>
 
 <details>
