@@ -42,7 +42,7 @@ root@mhjshmr:~$ whoami
 ▶ Minhaj Shameer Ahamed
 
 root@mhjshmr:~$ active_role
-▶ DATA Support Administrator
+▶ Jr. IT Administrator
 
 root@mhjshmr:~$ location
 ▶ United Arab Emirates
